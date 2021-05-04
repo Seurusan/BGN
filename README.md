@@ -1,2 +1,3 @@
-# BGN
-Studying
+# Python
+
+Data analysis with python
